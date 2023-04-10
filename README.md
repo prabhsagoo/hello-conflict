@@ -4,6 +4,10 @@
 
 # Another another line
 
+<<<<<<< HEAD
 # Testing a new branch
 
 # Third branch
+=======
+# Testing
+>>>>>>> testing
